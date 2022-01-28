@@ -1,0 +1,5 @@
+- 👋 Hi, I’m New Just call me Fancy
+- 👀 I’m interested in bot creation 
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on nothing atm
+- 📫 I'll settup later
